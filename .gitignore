@@ -9,3 +9,7 @@ env/
 # Data
 gfs_data/
 *.grib2
+
+# Output
+maps_output/
+*.png

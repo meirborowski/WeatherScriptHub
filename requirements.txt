@@ -1,0 +1,8 @@
+setuptools>=65.0.0
+requests>=2.31.0
+tqdm>=4.65.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+cartopy>=0.22.0
+xarray>=2023.1.0
+cfgrib>=0.9.10
